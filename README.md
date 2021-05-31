@@ -1,4 +1,4 @@
-# online_shopping_4521
+# online_shopping in HKUST-COMP4521
 
 Theme & color of the project: lib > theme
 
